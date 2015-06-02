@@ -27,6 +27,6 @@
     "jack-stack": "^0.11.0"
   },
   "dependencies": {
-    "connect-redis": "^2.3.0",
+    "connect-redis": "^2.3.0"
   }
 }
