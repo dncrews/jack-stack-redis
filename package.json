@@ -1,0 +1,32 @@
+{
+  "name": "jack-stack-redis",
+  "version": "1.0.0",
+  "description": "Redis Session Storage for jack-stack",
+  "main": "lib/redis",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dncrews/jack-stack-redis.git"
+  },
+  "keywords": [
+    "express",
+    "redis",
+    "connect-redis",
+    "jack-stack"
+  ],
+  "author": "Dan Crews <crewsd@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dncrews/jack-stack-redis/issues"
+  },
+  "homepage": "https://github.com/dncrews/jack-stack-redis#readme",
+  "peerDependencies": {
+    "express-session": "^1.11.2",
+    "jack-stack": "^0.11.0"
+  },
+  "dependencies": {
+    "connect-redis": "^2.3.0",
+  }
+}
