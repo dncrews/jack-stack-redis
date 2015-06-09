@@ -1,6 +1,6 @@
 {
   "name": "jack-stack-redis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Redis Session Storage for jack-stack",
   "main": "lib/redis",
   "scripts": {
@@ -24,7 +24,7 @@
   "homepage": "https://github.com/dncrews/jack-stack-redis#readme",
   "peerDependencies": {
     "express-session": "^1.11.2",
-    "jack-stack": "^0.11.0"
+    "jack-stack": "^0.12.0"
   },
   "dependencies": {
     "connect-redis": "^2.3.0"
