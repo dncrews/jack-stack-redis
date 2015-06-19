@@ -1,6 +1,6 @@
 {
   "name": "jack-stack-redis",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Redis Session Storage for jack-stack",
   "main": "lib/redis",
   "scripts": {
